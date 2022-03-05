@@ -2,7 +2,6 @@
 
 ## OUTPUT
 -![Screenshot](ss/architecture.jpg)
--![Screenshot](ss/object_detection.jpg)
 -![Screenshot](ss/OCRandimage.jpg)
 
 ## Pretrained Checkpoints
